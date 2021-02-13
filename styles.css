@@ -97,3 +97,8 @@ body{
 .card{
   padding-top: 10%;
 }
+@media (max-width:1028px) {
+  #title,#skills,#qualifications,#projects,#achievements,#projects,#softwares,#program,.image-column{
+    padding-left: 0;
+    padding-right: 0;
+}
